@@ -19,8 +19,6 @@ Durable Objects (DO) are a building block for **stateful coordination**: when yo
 ## How to use this repo
 
 ### Repo map
-- Daily lessons live in `docs/week-01/`, `docs/week-02/`, etc.
-- Demos live in `examples/`
 - Diagrams/GIFs live in `assets/`
 
 
@@ -49,12 +47,6 @@ Wrangler is the CLI for building/testing/deploying Workers; wrangler dev starts 
 
 <br>
 
-### 3) Try the demo (once it exists)
-
-    GET /rooms/<id>/incr → increments a per-room counter
-    Open / for the minimal UI (if included)
-
-<br>
 <br>
 
 ## Create a new project (optional)
